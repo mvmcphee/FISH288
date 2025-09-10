@@ -1,0 +1,99 @@
+---
+title: "Module 2: Shellfish"
+format: html
+editor: visual
+---
+
+For this module, please read the websites linked below. Unless otherwise noted, these sites are provided by Alaska Department of Fish and Game. Note that there are often several panes on the species profile/information sites, make sure you take a look at all of them.
+
+ADFG = Alaska Department of Fish & Game
+
+NOAA: National Oceanic and Atmospheric Administration
+
+NPFMC: North Pacific Fishery Management Council
+
+SAFE: Stock Assessment and Fishery Evaluation
+
+## Fisheries overviews
+
+-   [Commercial shellfish fisheries](https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByFisheryShellfish.main#/clams) (ADFG)
+
+-   [Commercial dive fisheries](https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByFisheryDive.main) (ADFG)
+
+## [Molluscs]{.underline}
+
+### Weathervane scallop
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=weathervanescallop.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/scallop.pdf)
+
+-   (optional): [2024 scallop SAFE report ](https://meetings.npfmc.org/CommentReview/DownloadFile?p=9c98c730-537c-4367-9bad-9c982662ceed.pdf&fileName=Scallop%20SAFE%202024%20(REVISED).pdf) (NPFMC)
+
+### Geoduck
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=geoduck.main)
+
+-   [Fishery information](https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByFisheryDive.geoduck)
+
+-   [Species information](https://www.fisheries.noaa.gov/species/geoduck) (NOAA Fisheries)
+
+### Razor clam
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=razorclam.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/razor_clam.pdf)
+
+## [Echinoderms]{.underline}
+
+### Red sea cucumber
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=redseacucumber.main)
+
+-   [Fishery information](https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByFisheryDive.seacucumber)
+
+### Red sea urchin
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=redseaurchin.main)
+
+-   [Fishery information](https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByFisheryDive.seaurchin)
+
+## [Crabs]{.underline}
+
+### King crabs
+
+-   [Wildlife notebook overview](https://www.adfg.alaska.gov/static/education/wns/alaska_king_crabs.pdf)
+
+<!-- -->
+
+-   [Blue king crab species profile](https://www.adfg.alaska.gov/index.cfm?adfg=bluekingcrab.main)
+
+-   [Golden king crab species profile](https://www.adfg.alaska.gov/index.cfm?adfg=goldenkingcrab.main)
+
+-   [Red king crab species profile](https://www.adfg.alaska.gov/index.cfm?adfg=redkingcrab.main)
+
+### Tanner/snow crabs
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=tannercrab.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/tanner_crab.pdf)
+
+-   [Species information](https://www.fisheries.noaa.gov/species/alaska-snow-crab) (snow crab)  - NOAA Fisheries
+
+### Dungeness crab
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=dungenesscrab.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/dungeness_crab.pdf)
+
+## [Shrimps]{.underline}
+
+-   [Wildlife notebook overview](https://www.adfg.alaska.gov/static/education/wns/shrimp.pdf)
+
+-   [Northern shrimp species profile](https://www.adfg.alaska.gov/index.cfm?adfg=northernshrimp.main)
+
+-   [Coonstripe shrimp species profile](https://www.adfg.alaska.gov/index.cfm?adfg=coonstripeshrimp.main)
+
+-   [Spot shrimp species profile](https://www.adfg.alaska.gov/index.cfm?adfg=spotshrimp.main)
+
+-   [Sidestripe shrimp species profile](https://www.adfg.alaska.gov/index.cfm?adfg=sidestripedshrimp.main)
