@@ -1,0 +1,97 @@
+---
+title: "Module 5 Readings"
+format: html
+editor: visual
+---
+
+For this module, please read the websites linked below. Unless otherwise noted, these sites are provided by Alaska Department of Fish and Game.
+
+## Esocids
+
+### Northern pike
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=northernpike.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/northern_pike.pdf)
+
+### Alaska blackfish
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/alaska_blackfish.pdf)
+
+## Trouts and chars
+
+### Rainbow/steelhead trout
+
+-   [Rainbow/steelhead species profile](https://www.adfg.alaska.gov/index.cfm?adfg=steelhead.main)
+
+-   [Rainbow wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/rainbow_trout.pdf)
+
+-   [Steelhead wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/steelhead_trout.pdf)
+
+-   [Steelhead info](https://www.fisheries.noaa.gov/species/steelhead-trout) (NOAA Fisheries)
+
+### Cutthroat trout
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=cutthroat.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/cutthroat_trout.pdf)
+
+### Lake trout
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=laketrout.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/lake_trout.pdf)
+
+### Dolly Varden
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=dollyvarden.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/dolly_varden.pdf)
+
+### Arctic char
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=arcticchar.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/arctic_char.pdf)
+
+[Is it an Arctic char or Dolly Varden???](https://www.adfg.alaska.gov/static-sf/region3/pdfs/arcticchardollyvarden.pdf)
+
+## Arctic Grayling
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=arcticgrayling.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/arctic_grayling.pdf)
+
+## Whitefishes
+
+### Whitefish overview
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/whitefish_species.pdf)
+
+-   [Subsistence guide to whitefish](https://www.adfg.alaska.gov/static/home/library/pdfs/subsistence/guide_to_whitefish_salmon.pdf) (and salmon)
+
+### Sheefish
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=sheefish.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/sheefish.pdf)
+
+### Broad whitefish
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=broadwhitefish.main)
+
+### Humpback whitefish
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=humpbackwhitefish.main)
+
+### Arctic cisco
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=arcticcisco.main)
+
+### Bering cisco
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=beringcisco.main)
+
+### Least cisco
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=leastcisco.main)
