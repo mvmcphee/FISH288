@@ -1,0 +1,27 @@
+---
+title: "Module 7 Readings"
+format: html
+editor: visual
+---
+
+For this module, please read the websites linked below. Unless otherwise noted, these sites are provided by Alaska Department of Fish and Game.
+
+## Cods
+
+### Walleye pollock
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=burbot.main)
+
+-   Species info (NOAA Fisheries)
+
+### Pacific cod
+
+-   Species info (NOAA Fisheries)
+
+### Burbot
+
+-   Species profile
+
+-   Wildlife notebook
+
+### Arctic cods
