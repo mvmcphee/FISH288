@@ -1,0 +1,65 @@
+---
+title: "Module 6 Readings"
+format: html
+editor: visual
+---
+
+For this module, please read the websites linked below. Unless otherwise noted, these sites are provided by Alaska Department of Fish and Game.
+
+## Pacific salmon
+
+### Overview
+
+-   [Pacific salmon & steelhead](https://www.fisheries.noaa.gov/species/pacific-salmon-and-steelhead) (NOAA)
+
+-   [Commercial salmon fisheries](https://www.adfg.alaska.gov/index.cfm?adfg=CommercialByFisherySalmon.main) (ADFG)
+
+### Sockeye salmon
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=sockeyesalmon.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/sockeye_salmon.pdf)
+
+-   [Species info](https://www.fisheries.noaa.gov/species/sockeye-salmon) (NOAA)
+
+### Pink salmon
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=pinksalmon.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/pink_salmon.pdf)
+
+-   [Species info ](https://www.fisheries.noaa.gov/species/pink-salmon)(NOAA)
+
+### Chum salmon
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=chumsalmon.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/chum_salmon.pdf)
+
+-   [Species info ](https://www.fisheries.noaa.gov/species/chum-salmon)(NOAA)
+
+### Coho salmon
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=cohosalmon.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/coho_salmon.pdf)
+
+-   [Species info](https://www.fisheries.noaa.gov/species/coho-salmon) (NOAA)
+
+### Chinook salmon
+
+-   [Species profile](https://www.adfg.alaska.gov/index.cfm?adfg=chinook.main)
+
+-   [Wildlife notebook](https://www.adfg.alaska.gov/static/education/wns/chinook_salmon.pdf)
+
+-   [Species info](https://www.fisheries.noaa.gov/species/chinook-salmon) (NOAA)
+
+### Additional resources (optional - some of these are very long!)
+
+-   [identification guide](https://www.eregulations.com/washington/fishing/salmon-identification) (adults - ocean & spawning colors)
+
+-   [identification guide](https://www.adfg.alaska.gov/static/home/library/pdfs/habitat/adfg_hr_id_cards_v1.1.pdf) - (juvenile salmonids & friends)
+
+-   [history of commercial salmon fisheries in Alaska](https://www.adfg.alaska.gov/static/home/library/PDFs/afrb/clarv12n1.pdf)
+
+-   [Alaska's wild salmon](https://www.adfg.alaska.gov/static/home/library/pdfs/ak_wild_salmon.pdf)
