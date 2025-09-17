@@ -1,0 +1,17 @@
+---
+title: "Module 13 Readings"
+format: html
+editor: visual
+---
+
+For this module, please read the websites and papers linked below.
+
+### Economic importance of commercial fisheries in Alaska
+
+-   [Alaska Seafood Marketing Institute](https://www.alaskaseafood.org/) (ASMI)
+
+-   [ASMI economic impact site](https://www.alaskaseafood.org/industry/economic-harvest-data/economic-impact/)
+
+-   [ASMI economic value report](https://www.alaskaseafood.org/wp-content/uploads/MRG_ASMI-Economic-Impacts-WEB-PAGES.pdf) (April 2024)
+
+FYI: [Stock Assessment and Fishery Evaluation (SAFE) reports](https://www.npfmc.org/library/safe-reports/) (here's where to find them; I don't expect you to read them all!)
