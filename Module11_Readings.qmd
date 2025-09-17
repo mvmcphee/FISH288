@@ -1,0 +1,43 @@
+---
+title: "Module 11 Readings"
+format: html
+editor: visual
+---
+
+For this module, please read the websites linked below. Note that some of these webpages have multiple tabs (please look over all of them).
+
+### Fisheries management overview
+
+-   [Federal](https://www.fisheries.noaa.gov/region/alaska/overview)
+
+-   [Commercial](https://www.adfg.alaska.gov/index.cfm?adfg=divisions.cfoverview) (State of Alaska)
+
+-   [Subsistence](https://www.adfg.alaska.gov/index.cfm?adfg=subsistence.main) (State of Alaska)
+
+-   [Subsistence management](https://www.doi.gov/sites/default/files/documents/2025-07/subsistence-management-program-brochure-may-2025-web-posting508.pdf) (Federal)
+
+-   [Sport](https://www.adfg.alaska.gov/index.cfm?adfg=fishingSport.main) (State of Alaska
+
+-   [Personal use](https://www.adfg.alaska.gov/index.cfm?adfg=fishingPersonalUse.main) (State of Alaska)
+
+### Regulatory processes
+
+-   [North Pacific Fishery Management Council](https://www.npfmc.org/about-the-council/#:~:text=North%20Pacific%20Fishery%20Management%20Council%20is%20one%20of%20eight%20regional,off%20the%20coast%20of%20Alaska.) (Federal)
+
+-   [Board of Fish](https://www.adfg.alaska.gov/index.cfm?adfg=process.main) (State of Alaska)
+
+### International management
+
+-   [International Pacific Halibut Commission](https://www.iphc.int/about/the-commission/)
+
+-   [Pacific Salmon Commission](https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/pacific-salmon-treaty-and-pacific-salmon-commission)
+
+### Co-Management & Tribal Stewardship
+
+-   [Co-Management in Alaska](https://www.uaf.edu/caps/our-work/policy-perspectives-files/PB1%20Co-Management%20Policy%20Brief%2024%20Jan%202020.pdf)
+
+-   [Kuskokwim Inter-Tribal Fish Commission](https://www.kuskosalmon.org/)
+
+-   [Chugach Regional Resources Commission](https://crrcalaska.org/)
+
+    -   [CRRC statement on co-managment & "co-stewardship"](https://thecordovatimes.com/2023/11/09/native-voices-crrc-statement-on-co-management/)
